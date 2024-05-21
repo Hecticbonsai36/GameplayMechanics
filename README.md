@@ -1,1 +1,1 @@
-# GameplayMechanics
+# Gameplay Mechanics
